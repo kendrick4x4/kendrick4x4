@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kendrick4x4
 - 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning MySQL Python & R
-- 💞️ I’m looking to collaborate on machine learning & AI projects
+- 💞️ I’m looking forward to collaborate on machine learning & AI projects
 - 📫 How to reach me Kendrick Iyowuna Joe on Facebook & +2348185127923 on Whatsapp
 
 <!---
