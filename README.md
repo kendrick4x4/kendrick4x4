@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @kendrick4x4
+- 👋 Hi, I’m @kendrick4x4
 - 👀 I am a tech enthusiast driven by a passion to learn more and  make our world a  better place.
 - I’m interested in Full Stack Web Development, Machine Learning and AI
 - 🌱I’m looking forward to collaborate with other developers and engineers on related projects
